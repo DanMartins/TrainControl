@@ -1,5 +1,5 @@
 # TrainControl
-Train Control System, developed in LabVIEW (2005). This work was developed by Daniel de Oliveira Gatto, Danilo Oliveira Martins, Eric Arima Machado and Samir Mazzer Chuffi at [USJT](https://www.usjt.br/) (Brazil).
+Train Control System, developed in LabVIEW (2005). This work was developed by Daniel de Oliveira Gatto, Danilo Oliveira Martins, Eric Arima Machado and Samir Mazzer Chuffi under advisory of Prof. Dr. Alexandre Brincalepe Campo at [USJT](https://www.usjt.br/) (Brazil).
 
 The population growth demands efficient and fast transportation systems, it is increasingly importantance for smart cities.
 The automatic control of trains is required in order to optimize public mass transit nowadays.
