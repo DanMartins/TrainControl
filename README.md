@@ -27,3 +27,5 @@ You may want to find more information at the documentation folder;
 
 ## Video
 There is a video available in [YouTube](https://www.youtube.com/channel/UCRJF9ALztqDIZ913XhoeNug/playlists)
+
+[![DOI](https://zenodo.org/badge/324618212.svg)](https://zenodo.org/badge/latestdoi/324618212)
